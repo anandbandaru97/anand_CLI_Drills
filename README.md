@@ -3,13 +3,13 @@ Drills
 Create the following directory structure. 
 (Create empty files where necessary)
 
--hello
--├── five
--│
--└── six
--│├── c.txt
--│└── seven
--│
+1. hello
+2. ├── five
+3. 
+4. └── six
+5. │├── c.txt
+6. │└── seven
+7. │
 -└── error.log
 -└── one
 -├── a.txt
