@@ -6,11 +6,18 @@ Create the following directory structure.
 -hello
 
 ├── five
+
       │
       └── six
-│            ├── c.txt
-|            └── seven
+      
+│            
+            ├── c.txt
+
+|           └── seven
 │                 └── error.log
+
+
+
 └── one
       ├── a.txt
       ├── b.txt
