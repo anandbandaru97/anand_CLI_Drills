@@ -4,22 +4,22 @@ Create the following directory structure.
 (Create empty files where necessary)
 
 1. hello
-2. ├── five
-3. 
-4. └── six
-5. │├── c.txt
-6. │└── seven
-7. │
--└── error.log
--└── one
--├── a.txt
--├── b.txt
--└── two
--├── d.txt
--└── three
--├── e.txt
--└── four
--└── access.log
+2. ├─five
+3. |   └── six
+4. │        ├── c.txt
+5. │        └── seven
+6. │      
+7. |        └── error.log
+8. └── one
+9. #      |   ├── a.txt
+10.#      |   ├── b.txt
+11.#       ── two
+12.            ├── d.txt
+13.            └── three
+14.                  ├── e.txt
+15.                  └── four
+16.                        |
+17.                        ── access.log
                       
 Delete all the files having the .log extension
 Add the following content to a.txt
