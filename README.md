@@ -1,23 +1,27 @@
 # anand_CLI_Drills
 Drills
-Create the following directory structure. (Create empty files where necessary)
+Create the following directory structure. 
+(Create empty files where necessary)
+
 -hello
+
 ├── five
-│
-└── six
-│├── c.txt
-│└── seven
-│
-└── error.log
+      │
+      └── six
+│            ├── c.txt
+|            └── seven
+│                 └── error.log
 └── one
-├── a.txt
-├── b.txt
-└── two
-├── d.txt
-└── three
-├── e.txt
-└── four
-└── access.log
+      ├── a.txt
+      ├── b.txt
+      └── two
+            ├── d.txt
+            └── three
+                  ├── e.txt
+                  └── four
+                        └── access.log
+
+                        
 Delete all the files having the .log extension
 Add the following content to a.txt
 Unix is a family of multitasking, multiuser computer operating
