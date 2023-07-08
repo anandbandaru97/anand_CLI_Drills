@@ -1,7 +1,7 @@
 # anand_CLI_Drills
 Drills
 Create the following directory structure. (Create empty files where necessary)
-##hello
+-hello
 ├── five
 │
 └── six
