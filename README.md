@@ -3,23 +3,21 @@ Drills
 Create the following directory structure. 
 (Create empty files where necessary)
 
-1. hello
-2. ├─five
-3. |   └── six
-4. │        ├── c.txt
-5. │        └── seven
-6. │      
-7. |        └── error.log
-8. └── one
-9. #      |   ├── a.txt
-10.#      |   ├── b.txt
-11.#       ── two
-12.            ├── d.txt
-13.            └── three
-14.                  ├── e.txt
-15.                  └── four
-16.                        |
-17.                        ── access.log
+1. #hello
+2.     ├─five
+3.          └── six
+4.          ├── c.txt
+5.          └── seven      
+6.              └── error.log
+7.     └── one
+8.       |── a.txt
+9.      |── b.txt
+10.      |── two
+11.           |── d.txt
+12.           └── three
+13.                  ├── e.txt
+14.                  └── four
+15.                  |── access.log
                       
 Delete all the files having the .log extension
 Add the following content to a.txt
